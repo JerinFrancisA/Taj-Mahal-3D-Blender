@@ -4,7 +4,7 @@ A Taj Mahal 3D model built using Blender.
 
 ## Renders
 ### ------------------------------------------------
-![1](https://user-images.githubusercontent.com/43045825/80871492-9471f480-8cca-11ea-966b-443bcee596b3.png)
+![5](https://user-images.githubusercontent.com/43045825/80871499-989e1200-8cca-11ea-8ce2-373d55675fed.png)
 ### ------------------------------------------------
 ![2](https://user-images.githubusercontent.com/43045825/80871494-95a32180-8cca-11ea-8e52-44d2ebe5b678.png)
 ### ------------------------------------------------
@@ -12,7 +12,7 @@ A Taj Mahal 3D model built using Blender.
 ### ------------------------------------------------
 ![4](https://user-images.githubusercontent.com/43045825/80871497-98057b80-8cca-11ea-9ac0-c367b88b91c8.png)
 ### ------------------------------------------------
-![5](https://user-images.githubusercontent.com/43045825/80871499-989e1200-8cca-11ea-8ce2-373d55675fed.png)
+![1](https://user-images.githubusercontent.com/43045825/80871492-9471f480-8cca-11ea-966b-443bcee596b3.png)
 ### ------------------------------------------------
 ![6](https://user-images.githubusercontent.com/43045825/80871500-9936a880-8cca-11ea-835a-f6723da457ba.png)
 ### ------------------------------------------------
