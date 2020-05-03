@@ -2,8 +2,11 @@
 
 A Taj Mahal 3D model built using Blender.
 
-## Check out the YouTube Video here
+## Click on the image below to check out the YouTube Video
+### ------------------------------------------------
 [![Taj Mahal Blender](http://img.youtube.com/vi/s6qAcmvJt0c/0.jpg)](http://www.youtube.com/watch?v=s6qAcmvJt0c)
+### ------------------------------------------------
+
 ## Renders
 ### ------------------------------------------------
 ![5](https://user-images.githubusercontent.com/43045825/80871499-989e1200-8cca-11ea-8ce2-373d55675fed.png)
